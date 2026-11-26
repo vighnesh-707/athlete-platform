@@ -1,0 +1,16 @@
+athlete_id,name,position,past_injury_count,medical_notes
+A01,Arjun Mehta,Forward,0,No significant history
+A02,Rohan Patil,Midfielder,1,Ankle sprain (2024)
+A03,Vikram Singh,Defender,2,Recurring knee tendinopathy
+A04,Aditya Rao,Goalkeeper,0,No significant history
+A05,Karan Joshi,Midfielder,0,No significant history
+A06,Imran Shaikh,Forward,0,No significant history
+A07,Siddharth Nair,Midfielder,1,Hamstring strain (2025)
+A08,Neeraj Kulkarni,Defender,0,No significant history
+A09,Dev Malhotra,Goalkeeper,1,Groin strain (2025)
+A10,Faisal Khan,Midfielder,0,No significant history
+A11,Yash Deshmukh,Forward,1,Hamstring strain - returned 3 weeks ago
+A12,Harsh Verma,Midfielder,0,No significant history
+A13,Manish Gupta,Defender,0,No significant history
+A14,Tarun Reddy,Goalkeeper,0,No significant history
+A15,Omkar Jadhav,Midfielder,0,No significant history

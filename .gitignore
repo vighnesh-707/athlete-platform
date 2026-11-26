@@ -1,0 +1,9 @@
+users.db
+*.db-wal
+*.db-shm
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+__pycache__/
+*.py[cod]
